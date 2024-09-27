@@ -1,0 +1,4 @@
+USER_NAME=lorena
+API_KEY=mi_clave_secreta_pro
+EMAIL=lore@gmail.com_pro
+DATABASE_URL=mi_base_de_datos_pro
